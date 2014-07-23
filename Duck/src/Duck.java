@@ -1,6 +1,7 @@
-
 public class Duck {
-	
-	public 
+
+	public Duck() {
+
+	}
 
 }
